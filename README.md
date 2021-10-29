@@ -1,1 +1,2 @@
-# new-counter
+# counter
+*amazing_counter
